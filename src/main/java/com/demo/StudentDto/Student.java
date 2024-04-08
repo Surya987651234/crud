@@ -5,7 +5,7 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
-
+// this is git merge conflict test
 @Entity
 @Table(name = "student_db")
 public class Student {
